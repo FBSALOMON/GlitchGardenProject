@@ -1,37 +1,49 @@
 fileFormatVersion: 2
-guid: fe3e3409cf050de4697d89caa22447fa
-timeCreated: 1531183915
+guid: 43f0aa5b1d749c442aa10e157a9dde82
+timeCreated: 1531322892
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
-    21300002: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
-    21300004: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
-    21300006: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
-    21300008: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
-    21300010: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
-    21300012: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
-    21300014: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
-    21300016: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
-    21300018: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
-    21300020: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
-    21300022: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
-    21300024: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
-    21300026: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
-    21300028: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
-    21300030: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
-    21300032: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
-    21300034: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
-    21300036: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
-    21300038: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
-    21300040: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
-    21300042: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
-    21300044: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
-    21300046: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
-    21300048: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
-    21300050: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
-    21300052: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
-    21300054: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
+    21300000: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_0
+    21300002: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_1
+    21300004: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_2
+    21300006: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_3
+    21300008: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_4
+    21300010: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_5
+    21300012: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_6
+    21300014: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_7
+    21300016: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_8
+    21300018: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_9
+    21300020: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_10
+    21300022: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_11
+    21300024: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_12
+    21300026: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_13
+    21300028: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_14
+    21300030: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_15
+    21300032: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_16
+    21300034: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_17
+    21300036: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_18
+    21300038: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_19
+    21300040: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_20
+    21300042: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_21
+    21300044: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_22
+    21300046: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_23
+    21300048: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_24
+    21300050: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_25
+    21300052: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_26
+    21300054: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_27
+    21300056: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_28
+    21300058: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_29
+    21300060: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_30
+    21300062: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_31
+    21300064: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_32
+    21300066: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_33
+    21300068: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_34
+    21300070: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_35
+    21300072: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_36
+    21300074: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_37
+    21300076: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_38
+    21300078: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_39
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -85,7 +97,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -95,7 +107,7 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -105,7 +117,7 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,7 +127,7 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -128,7 +140,175 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_12
       rect:
         serializedVersion: 2
         x: 0
@@ -142,7 +322,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_13
       rect:
         serializedVersion: 2
         x: 153
@@ -156,7 +336,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_14
       rect:
         serializedVersion: 2
         x: 306
@@ -170,7 +350,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_15
       rect:
         serializedVersion: 2
         x: 459
@@ -184,7 +364,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_16
       rect:
         serializedVersion: 2
         x: 612
@@ -198,7 +378,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_17
       rect:
         serializedVersion: 2
         x: 765
@@ -212,7 +392,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_18
       rect:
         serializedVersion: 2
         x: 0
@@ -226,7 +406,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_19
       rect:
         serializedVersion: 2
         x: 153
@@ -240,7 +420,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_20
       rect:
         serializedVersion: 2
         x: 306
@@ -254,7 +434,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_21
       rect:
         serializedVersion: 2
         x: 459
@@ -268,7 +448,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_22
       rect:
         serializedVersion: 2
         x: 612
@@ -282,7 +462,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_23
       rect:
         serializedVersion: 2
         x: 765
@@ -296,7 +476,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_24
       rect:
         serializedVersion: 2
         x: 0
@@ -310,7 +490,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_25
       rect:
         serializedVersion: 2
         x: 153
@@ -324,7 +504,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_26
       rect:
         serializedVersion: 2
         x: 306
@@ -338,7 +518,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_27
       rect:
         serializedVersion: 2
         x: 459
@@ -352,7 +532,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_28
       rect:
         serializedVersion: 2
         x: 612
@@ -366,7 +546,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_29
       rect:
         serializedVersion: 2
         x: 765
@@ -380,7 +560,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_30
       rect:
         serializedVersion: 2
         x: 0
@@ -394,7 +574,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_31
       rect:
         serializedVersion: 2
         x: 153
@@ -408,7 +588,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_32
       rect:
         serializedVersion: 2
         x: 306
@@ -422,7 +602,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_33
       rect:
         serializedVersion: 2
         x: 459
@@ -436,7 +616,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_34
       rect:
         serializedVersion: 2
         x: 612
@@ -450,7 +630,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_35
       rect:
         serializedVersion: 2
         x: 765
@@ -464,7 +644,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_36
       rect:
         serializedVersion: 2
         x: 0
@@ -478,7 +658,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_37
       rect:
         serializedVersion: 2
         x: 153
@@ -492,7 +672,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_38
       rect:
         serializedVersion: 2
         x: 306
@@ -506,7 +686,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_39
       rect:
         serializedVersion: 2
         x: 459

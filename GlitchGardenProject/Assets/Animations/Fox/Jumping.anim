@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Fox Jumping
+  m_Name: Jumping
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,65 +20,65 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: 21300000, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.033333335
+    - time: 0.035714287
       value: {fileID: 21300002, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.06666667
+    - time: 0.071428575
       value: {fileID: 21300004, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.1
+    - time: 0.10714286
       value: {fileID: 21300006, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.13333334
+    - time: 0.14285715
       value: {fileID: 21300008, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.16666667
+    - time: 0.17857143
       value: {fileID: 21300010, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.2
+    - time: 0.21428572
       value: {fileID: 21300012, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.23333333
+    - time: 0.25
       value: {fileID: 21300014, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.26666668
+    - time: 0.2857143
       value: {fileID: 21300016, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.3
+    - time: 0.32142857
       value: {fileID: 21300018, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.33333334
+    - time: 0.35714287
       value: {fileID: 21300020, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.36666667
+    - time: 0.39285713
       value: {fileID: 21300022, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.4
+    - time: 0.42857143
       value: {fileID: 21300024, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.43333334
+    - time: 0.4642857
       value: {fileID: 21300026, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.46666667
-      value: {fileID: 21300028, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
     - time: 0.5
+      value: {fileID: 21300028, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
+    - time: 0.53571427
       value: {fileID: 21300030, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.53333336
+    - time: 0.5714286
       value: {fileID: 21300032, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.56666666
+    - time: 0.60714287
       value: {fileID: 21300034, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.6
+    - time: 0.64285713
       value: {fileID: 21300036, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.6333333
+    - time: 0.6785714
       value: {fileID: 21300038, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.6666667
+    - time: 0.71428573
       value: {fileID: 21300040, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.7
+    - time: 0.75
       value: {fileID: 21300042, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.73333335
+    - time: 0.78571427
       value: {fileID: 21300044, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.76666665
+    - time: 0.8214286
       value: {fileID: 21300046, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.8
+    - time: 0.85714287
       value: {fileID: 21300048, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.8333333
+    - time: 0.89285713
       value: {fileID: 21300050, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.8666667
+    - time: 0.9285714
       value: {fileID: 21300052, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
-    - time: 0.9
+    - time: 0.96428573
       value: {fileID: 21300054, guid: fe3e3409cf050de4697d89caa22447fa, type: 3}
     attribute: m_Sprite
-    path: 
+    path: Body
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 30
+  m_SampleRate: 28
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -86,7 +86,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 2073732236
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -126,7 +126,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.93333334
+    m_StopTime: 1
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
