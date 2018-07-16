@@ -901,7 +901,7 @@ Prefab:
     - target: {fileID: 224667770689320018, guid: 72883377f5d20de418c107967258835a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 1.5000229
       objectReference: {fileID: 0}
     - target: {fileID: 224667770689320018, guid: 72883377f5d20de418c107967258835a,
         type: 2}
@@ -911,7 +911,7 @@ Prefab:
     - target: {fileID: 224667770689320018, guid: 72883377f5d20de418c107967258835a,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 262
+      value: 340.4
       objectReference: {fileID: 0}
     - target: {fileID: 224667770689320018, guid: 72883377f5d20de418c107967258835a,
         type: 2}
@@ -952,6 +952,13 @@ Prefab:
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: 01 Start Menu
+      objectReference: {fileID: 0}
+    - target: {fileID: 114401298283711602, guid: 72883377f5d20de418c107967258835a,
+        type: 2}
+      propertyPath: m_Text
+      value: 'Start Again
+
+'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72883377f5d20de418c107967258835a, type: 2}
